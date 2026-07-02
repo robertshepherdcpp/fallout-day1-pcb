@@ -7,5 +7,5 @@ Item,Reference,Qty,Description,Manufacturer,Manufacturer Part Number,LCSC Part N
 6,D6 D10,2,5mm White LED,Everlight,334-15/T2C1-4WYA,C72038,THT,0.04,0.08,eye LEDs
 7,SW1,1,6x6mm Tactile Push Button,Omron,B3F-1000,C318884,THT,0.08,0.08,User button
 8,BT1,1,CR2032 Coin Cell Holder,Keystone,3002,C964829,THT,0.48,0.48,Battery holder
-,,,,,,,,,
+,,,,,,,,,,
 ,,,,,,,,,Total,7.54
