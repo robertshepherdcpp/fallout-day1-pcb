@@ -16,5 +16,9 @@ slack: @rshepherdcpp
 - that is just a pcb
 - powered by a coin sized battery
 - keep ur pet happy by touching the ear on the correct side (dont do it on the wrong side else hell get angry!)
-- 
+
+BOM image:
+
+<img width="1467" height="487" alt="image" src="https://github.com/user-attachments/assets/52f13122-32a7-4a51-9a83-0d739f1ce108" />
+
 
